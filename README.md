@@ -8,11 +8,11 @@ I spent many years on the operations side of clinical research: running studies,
 
 ### 🔬 What I'm building
 
-**[TrialGrids](https://trialgrids.com)**
-Web-based tools for small research centers and CROs, designed around how clinical studies actually run on site.
-
-**[TMF Control List](https://github.com/mehmetsahin-tr/trial-master-file-control-list)** · [▶ Use online](https://mehmetsahin-tr.github.io/trial-master-file-control-list/)
+⭐ **[TMF Control List](https://github.com/mehmetsahin-tr/trial-master-file-control-list)** · [▶ Use online](https://mehmetsahin-tr.github.io/trial-master-file-control-list/)
 A free, open-source Trial Master File checklist for BE/BA studies. Single file, works offline, no sign-up. Section-level check and lock with edit history, PDF/DOCX attachments, export/import between computers and an A4 sign-off report. All data stays in the user's own browser.
+
+**[TrialGrids](https://trialgrids.com)** · [Source](https://github.com/mehmetsahin-tr/trialgrid)
+Free, browser-based tools for BE/BA and crossover trials: randomization lists, schedules of assessments, meal logs, sample shipment counts, tube labels and AE forms.
 
 ---
 
