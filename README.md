@@ -33,7 +33,10 @@ Free, browser-based tools for BE/BA and crossover trials: randomization lists, s
 Open to collaboration with research sites, CROs and anyone improving how clinical research gets done.
 
 [![Website](https://img.shields.io/badge/trialgrids.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://trialgrids.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetsahin-tr)
 [![Email](https://img.shields.io/badge/mehmetsahindev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehmetsahindev@gmail.com)
+[![YouTube](https://img.shields.io/badge/@tr.mehmetsahin-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@tr.mehmetsahin)
 [![X](https://img.shields.io/badge/@mehmetsahin__tr-000000?style=flat&logo=x&logoColor=white)](https://x.com/mehmetsahin_tr)
 [![Threads](https://img.shields.io/badge/@mehmetsahin.tr-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@mehmetsahin.tr)
-[![YouTube](https://img.shields.io/badge/@tr.mehmetsahin-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@tr.mehmetsahin)
+[![Instagram](https://img.shields.io/badge/@mehmetsahin.tr-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mehmetsahin.tr)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/turkey.mehmetsahin)
