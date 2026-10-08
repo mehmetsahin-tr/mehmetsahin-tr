@@ -19,7 +19,7 @@ Free, browser-based tools for BE/BA and crossover trials: randomization lists, s
 ### 🧭 What I care about
 
 - **Tools shaped by the field:** built from real study workflows, not from assumptions about them
-- **Privacy by design:** clinical data should stay where it belongs; my tools run locally and send nothing to a server
+- **Privacy by design:** clinical data should stay where it belongs; my tools run in the browser and never send study data to a server
 - **Simple over clever:** a site coordinator should be productive in five minutes, without training
 
 ### 🛠️ Working with
